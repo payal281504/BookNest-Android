@@ -1,0 +1,6 @@
+{
+  "name": "BookNest",
+  "description": "Smart book library and reading tracker with built-in PDF, EPUB, and TXT readers, progress tracking, and reading goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
